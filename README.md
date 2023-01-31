@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente eu estou trabalhando em um projeto que procurar entender quais dispositivos mais tem influenciado em compras onlines [Dispositivos influenciadores de compras](https://github.com/Leonardobern10/Portfolio/blob/main/Shopping.ipynb)
 
-- 🌱 Atualmente estou estudando Big Data, Python, Machine Learning e Estatística **Livros : Data Science and Big Data Analytics, Mastering Machine Learning in Python in Six Steps, Estatística Aplicada.**
+- 🌱 Atualmente estou estudando NLP. **Livro : Natural Languages Processing Recipes.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Leonardobern10/Portfolio](https://github.com/Leonardobern10/Portfolio)
 
