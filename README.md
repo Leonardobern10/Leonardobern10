@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Leonardo</h1>
 <h3 align="center">Um apaixonado por Ciência de dados, IA e Machine Learning diretamente de Porto Alegre - RS</h3>
 
-- 🔭 Atualmente eu estou trabalhando em um projeto que procurar entender quais dispositivos mais tem influenciado em compras onlines [Dispositivos influenciadores de compras](https://github.com/Leonardobern10/Portfolio/blob/main/Shopping.ipynb)
+- 🔭 Atualmente eu estou trabalhando em um projeto de NLP para analisar os 35 maiores discursos da hitstória.(https://github.com/Leonardobern10/Portfolio/blob/main/Shopping.ipynb)
 
 - 🌱 Atualmente estou estudando NLP. **Livro : Natural Languages Processing Recipes.**
 
