@@ -1,9 +1,10 @@
 <h1 align="center">Olá 👋, Eu sou Leonardo</h1>
-<h3 align="center">Um apaixonado por Ciência de dados, IA e Machine Learning diretamente de Porto Alegre - RS</h3>
+<h3 align="center">Um apaixonado por Tecnologia, graduando em Ciências da Computação, diretamente de Porto Alegre - RS</h3>
+
 
 - 🔭 Atualmente eu estou trabalhando em um projeto de NLP para analisar os 35 maiores discursos da hitstória.(https://github.com/Leonardobern10/Portfolio/blob/main/Shopping.ipynb)
 
-- 🌱 Atualmente estou estudando NLP. **Livro : Natural Languages Processing Recipes.**
+- 🌱 Atualmente estou estudando Desenvolvimento Web (Html, CSS, Javascript, PHP).
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Leonardobern10/Portfolio](https://github.com/Leonardobern10/Portfolio)
 
