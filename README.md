@@ -1,14 +1,14 @@
 <h1 align="center">Olá 👋, Eu sou Leonardo</h1>
-<h3 align="center">Um apaixonado por Tecnologia, graduando em Ciências da Computação, diretamente de Porto Alegre - RS</h3>
+<h3 align="center">Um apaixonado por Tecnologia, graduando em Ciências da Computação, diretamente de Nova Iguaçú - RJ</h3>
 
 
-- 🔭 Atualmente eu estou trabalhando em um projeto de NLP para analisar os 35 maiores discursos da hitstória.(https://github.com/Leonardobern10/Portfolio/blob/main/Shopping.ipynb)
+- 🔭 Atualmente eu estou trabalhando em jogos digitais com HTML, CSS e Javascript; como foco em Programação Orientada a Objetos.(https://leonardobern10.github.io/Jogo-da-velha/)
 
-- 🌱 Atualmente estou estudando Desenvolvimento Web (Html, CSS, Javascript, PHP).
+- 🌱 Atualmente estou estudando Computação em Nuvem (Azure, AWS e GCP).
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Leonardobern10/Portfolio](https://github.com/Leonardobern10/Portfolio)
 
-- 💬 Pergunte me sobre **Python, Machine Learning, Estatística, Matemática**
+- 💬 Pergunte me sobre **Python, Javascript, CSS, Banco de Dados, Computação em Nuvem, Estrutura de Dados, Matemática**
 
 - 📫 Como me encontrar **leonardo.bernardo2658@gmail.com**
 
