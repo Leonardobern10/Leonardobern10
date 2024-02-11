@@ -2,13 +2,13 @@
 <h3 align="center">Um apaixonado por Tecnologia, graduando em Ciências da Computação, diretamente de Nova Iguaçú - RJ</h3>
 
 
-- 🔭 Atualmente eu estou trabalhando em jogos digitais com HTML, CSS e Javascript; como foco em Programação Orientada a Objetos.(https://leonardobern10.github.io/Jogo-da-velha/)
+- 🔭 Atualmente eu estou trabalhando em projetos em Java.(https://leonardobern10.github.io/Jogo-da-velha/)
 
-- 🌱 Atualmente estou estudando Computação em Nuvem (Azure, AWS e GCP).
+- 🌱 Atualmente estou estudando Java.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Leonardobern10/Portfolio](https://github.com/Leonardobern10/Portfolio)
 
-- 💬 Pergunte me sobre **Python, Javascript, CSS, Banco de Dados, Computação em Nuvem, Estrutura de Dados, Matemática**
+- 💬 Pergunte me sobre **Python, Javascript, CSS, Banco de Dados, Computação em Nuvem, Estrutura de Dados, Matemática, HTML.**
 
 - 📫 Como me encontrar **leonardo.bernardo2658@gmail.com**
 
