@@ -2,7 +2,7 @@
 <h3 align="center">Um apaixonado por Tecnologia, graduando em Ciências da Computação, diretamente de Nova Iguaçú - RJ</h3>
 
 
-- 🔭 Atualmente eu estou trabalhando em projetos em Java.
+- 🔭 Atualmente eu estou trabalhando um trabalho como desenvolvedor.
 
 - 🌱 Atualmente estou estudando Java.
 
