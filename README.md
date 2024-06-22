@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou estudando Java.
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Leonardobern10/Portfolio](https://github.com/Leonardobern10/Portfolio)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [[https://github.com/Leonardobern10/Portfolio](https://github.com/Leonardobern10/Portfolio](https://portfolio-leonardo25.vercel.app/))
 
 - 💬 Pergunte me sobre **Python, Javascript, CSS, Banco de Dados, Computação em Nuvem, Estrutura de Dados, Matemática, HTML.**
 
