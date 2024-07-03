@@ -2,13 +2,11 @@
 <h3 align="center">Um apaixonado por Tecnologia, graduando em Ciências da Computação, diretamente de Nova Iguaçú - RJ</h3>
 
 
-- 🔭 Atualmente eu estou trabalhando um trabalho como desenvolvedor.
+- 🔭 Atualmente eu estou trabalhando na criação de uma aplicação full-stack, uma plataforma para delivery de comida utilizando Java | Spring Framework | ReactJs.
 
-- 🌱 Atualmente estou estudando Java.
+- 🌱 Atualmente estou estudando JUnit5.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [Meu portfólio](https://portfolio-leonardo25.vercel.app/).
-
-- 💬 Pergunte me sobre **Python, Javascript, CSS, Banco de Dados, Computação em Nuvem, Estrutura de Dados, Matemática, HTML.**
 
 - 📫 Como me encontrar **leonardo.bernardo2658@gmail.com**
 
