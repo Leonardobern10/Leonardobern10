@@ -17,7 +17,7 @@
   <a href="https://twitter.com/leonardobern10" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leonardobern10" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/leonardo-bern/" target="blank">
+  <a href="[https://linkedin.com/in/https://www.linkedin.com/in/leonardo-bern/](https://www.linkedin.com/in/leonardo-bern/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-bern/" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/leonardobern" target="blank">
