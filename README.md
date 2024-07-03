@@ -56,16 +56,16 @@
       <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html5" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html5" width="20" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css3" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css3" width="20" height="40"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="tailwindcss" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="tailwindcss" width="20" height="30"/> 
   </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png" alt="npm" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png" alt="npm" width="40" height="20"/> 
   </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" alt="vite" width="40" height="40"/> 
