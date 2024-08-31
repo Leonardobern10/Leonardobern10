@@ -2,7 +2,7 @@
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpzbTQwcHZ0MzZqMWt0MWhkZW1yeXA3eWN3OWl6anc3NGpqa3ZkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.webp)
 <br />
 <br />
-🔭 Currently, I am working on creating a full-stack application, a food delivery platform using Java | Spring Framework | ReactJs.<br><br>🌱 I am currently studying JUnit5.<br><br>👨‍💻 All my projects are available at [my portfolio](https://portfolio-leonardo25.vercel.app/).<br><br>📫 How to reach me leonardo.bernardo2658@gmail.com<br><br>⚡ Things that make me happy Video games, Technology, Soccer (Flamengo for sure haha), and Nature (Rio de Janeiro, my hometown).
+🌱 I am currently studying NodeJs.<br><br>👨‍💻 All my projects are available at [my portfolio](https://portfolio-leonardo25.vercel.app/).<br><br>📫 How to reach me leonardo.bernardo2658@gmail.com<br><br>⚡ Things that make me happy Video games, Technology, Soccer (Flamengo for sure haha), and Nature (Rio de Janeiro, my hometown).
 
 
 ## 🌐 Socials:
