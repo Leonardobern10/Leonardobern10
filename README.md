@@ -1,4 +1,4 @@
-# Hi! I'm Leonardo Bernardo a Full Stack Developer from Rio de Janeiro, BR.
+# Hi! I'm Leonardo Bernardo a Software Engineer from Rio de Janeiro, BR.
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpzbTQwcHZ0MzZqMWt0MWhkZW1yeXA3eWN3OWl6anc3NGpqa3ZkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.webp)
 <br />
 <br />
