@@ -5,7 +5,7 @@ Olá! Eu sou Leonardo Bernardo um Engenheiro de Software diretamente do Rio de J
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpzbTQwcHZ0MzZqMWt0MWhkZW1yeXA3eWN3OWl6anc3NGpqa3ZkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.webp)
 <br />
 <br />
-🌱 I am currently studying Nodejs (Atualmente estou estudando Nodejs).<br><br>👨‍💻 All my projects are available at (Todos os meus projetos estão disponíveis em) [my portfolio](https://portfolio-leonardo25.vercel.app/). <br><br>📫 How to reach me (como me contatar) Email: 📧 leonardo.bernardo2658@gmail.com | 📲 Linkedin: https://linkedin.com/in/leonardo-bern <br><br>⚡ Things that make me happy (Coisas que me fazem feliz): Video games, Technology, Soccer (Flamengo for sure haha), and Nature (Rio de Janeiro, my hometown).
+🌱 I am currently studying Vuejs (Atualmente estou estudando Vuejs).<br><br>👨‍💻 All my projects are available at (Todos os meus projetos estão disponíveis em) [my portfolio](https://portfolio-leonardo25.vercel.app/). <br><br>📫 How to reach me (como me contatar) Email: 📧 leonardo.bernardo2658@gmail.com | 📲 Linkedin: https://linkedin.com/in/leonardo-bern <br><br>⚡ Things that make me happy (Coisas que me fazem feliz): Video games, Technology, Soccer (Flamengo for sure haha), and Nature (Rio de Janeiro, my hometown).
 
 
 ## 🌐 Socials:
