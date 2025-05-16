@@ -22,4 +22,6 @@ Olá! Eu sou Leonardo Bernardo um Engenheiro de Software diretamente do Rio de J
 ---
 [![](https://visitcount.itsvg.in/api?id=Leonardobern10&icon=1&color=1)](https://visitcount.itsvg.in)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardobern10&label=Profile%20views&color=8c00ff&style=flat" alt="leonardobern10" /> </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
