@@ -1,7 +1,7 @@
 <h1 align="center">Eae👍, eu sou Leonardo Bernardo</h1>
 <h3 align="center">Desenvolvedor FullStack com aptidão para construir sistemas completos e escaláveis.</h3>
 
-- 🔭 Atualmente estou trabalhando em [CarEnt](https://github.com/Leonardobern10/CarRent)
+- 🔭 Atualmente estou trabalhando em [CarEnt](car-rent-eta-lemon.vercel.app)
 
 - 🌱 Nesse momento estou aprendendo **Vue.js**
 
