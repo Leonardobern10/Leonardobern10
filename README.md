@@ -1,5 +1,8 @@
-<h1 align="center">Eae👍, eu sou Leonardo Bernardo</h1>
-<h3 align="center">Desenvolvedor FullStack com aptidão para construir sistemas completos e escaláveis.</h3>
+<div align="center">
+  <img width="1000px" src="public/banner-git.gif" alt="Header" />
+</div>
+
+<h3 align="center">Especialista em Desenvolvimento Full Stack de Alta Performance.</h3>
 
 - 🔭 Atualmente estou trabalhando em [CarEnt](car-rent-eta-lemon.vercel.app)
 
@@ -22,10 +25,10 @@
 
 <h3>Github Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=Leonardobern10&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Leonardobern10&theme=aura&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardobern10&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonardobern10&theme=aura&hide_border=true&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardobern10&theme=aura&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardobern10&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardobern10&label=Profile%20views&color=8c00ff&style=flat" alt="leonardobern10" /> </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
