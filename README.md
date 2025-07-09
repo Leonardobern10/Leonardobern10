@@ -2,7 +2,7 @@
   <img width="1000px" src="public/banner-git.gif" alt="Header" />
 </div>
 <h3 align="center">🙋‍♂️ Olá, eu sou Leonardo 👍</h3> 
-Sou Desenvolvedor Full Stack com foco em aplicações escaláveis usando **Node.js**, **Java**, **TypeScript**, **React** e **Vue.js**. Tenho experiência prática com arquitetura de microsserviços orientada a eventos, Clean Architecture, TDD, SOLID e testes automatizados.
+Sou Desenvolvedor Full Stack com foco em aplicações escaláveis usando Node.js, Java, TypeScript, React e Vue.js. Tenho experiência prática com arquitetura de microsserviços orientada a eventos, Clean Architecture, TDD, SOLID e testes automatizados.
 
 ## 🚀 Tecnologias principais
 
@@ -32,7 +32,7 @@ Sou Desenvolvedor Full Stack com foco em aplicações escaláveis usando **Node.
 
 <h3>📫 Entre em contato</h3>
 
-[LinkedIn](https://www.linkedin.com/in/leonardobernardo-dev/) | [Email](leonardo.bernardo2658@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/leonardobernardo-dev/) | [Portfólio](https://portfolio-leonardo25.vercel.app/) | [Email](leonardo.bernardo2658@gmail.com)
 
 <h3>Github Stats</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
