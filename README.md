@@ -7,7 +7,7 @@ Sou Desenvolvedor Full Stack com foco em aplicações escaláveis usando Node.js
 ## 🚀 Tecnologias principais
 
 - **Back-End:** Node.js, Java, Express, TypeORM, Mongoose, MongoDB, PostgreSQL, MySQL, NestJS.
-- **Front-End:** Vue.js, React, Pinia, Vue Router, Material UI, TailwindCSS, Grasp, Shad CN UI, React Hook Form, React Router.
+- **Front-End:** React, Material UI, TailwindCSS, Grasp, Zod, Zustand, Shad CN UI, React Hook Form, React Router.
 - **Testes:** Vitest, Testing Library, JUnit, Cypress
 - **DevOps:** Docker, Docker Compose, GitHub Actions
 - **Arquitetura:** Microsserviços, Event-Driven, REST APIs, Clean Code
