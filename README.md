@@ -1,9 +1,15 @@
 <div align="center">
   <img width="1000px" src="public/banner-git.gif" alt="Header" />
 </div>
-Sou Desenvolvedor Full Stack com foco em aplicações escaláveis usando Node.js, Java, TypeScript, React e Vue.js. Tenho experiência prática com arquitetura de microsserviços orientada a eventos, Clean Architecture, TDD, SOLID e testes automatizados.
 
-## 🚀 Tecnologias principais
+<div>
+  <p> Sou Desenvolvedor Full Stack com foco em aplicações escaláveis usando Node.js, Java, TypeScript e React. Tenho experiência prática com arquitetura de microsserviços orientada a eventos, Clean Architecture, TDD, SOLID, testes automatizados e observabilidade.</p>
+  <p>
+    <em> [EN] I am a Full Stack Developer focused on building scalable applications using Node.js, Java, TypeScript, and React. I have hands-on experience with event-driven microservices architecture, Clean Architecture, TDD, SOLID principles, automated testing, and observability. </em>
+  </p>
+</div>
+
+## 🚀 Stack
 
 - **Back-End:** Node.js, Java, Express, TypeORM, Mongoose, MongoDB, PostgreSQL, MySQL, NestJS.
 - **Front-End:** React, Material UI, TailwindCSS, Grasp, Zod, Zustand, Shad CN UI, React Hook Form, React Router.
@@ -11,16 +17,35 @@ Sou Desenvolvedor Full Stack com foco em aplicações escaláveis usando Node.js
 - **DevOps:** Docker, Docker Compose, GitHub Actions
 - **Arquitetura:** Microsserviços, Event-Driven, REST APIs, Clean Code
 
-## 💼 Projetos em destaque
+## 💼 Projects
 
-- 🔧 [Sistema de E-commerce para relógios](https://github.com/Leonardobern10/Ecommerce_FullStack_Node_Vuejs): Fullstack com Vue + Node.js, carrinho, checkout, notificações, histórico de pedidos e testes automatizados.
+<details>
+  <summary>🔧 <a href="https://github.com/Leonardobern10/Ecommerce_FullStack_Node_Vuejs">Sistema de E-commerce para relógios</a> </summary>
+  <br />
+  <div>
+    <p> Fullstack com Vue + Node.js, carrinho, checkout, notificações, histórico de pedidos e testes automatizados.</p>
+    <p> <em>[EN] Fullstack developer with Vue + Node.js, featuring cart, checkout, notifications, order history, and automated testing. </em> </p>
+  </div>
+</details>
 </br>
-
-- 📊 [API Rest para gerenciamento de carros](https://github.com/Leonardobern10/Car-management-api): Aplicação Java com padrão Builder, testes com JUnit e exemplo prático com README explicativo.
-</br>
-
-- ✅ [Plataforma de aluguel de carros](https://github.com/Leonardobern10/CarRent): Aplicação web moderna e responsiva, desenvolvida com foco em experiência do usuário, componentização escalável e boas práticas de desenvolvimento.
-</br>
+<details>
+  <summary><a href="https://github.com/Leonardobern10/Car-management-api">API Rest para gerenciamento de carros </a> </summary>
+  <br />
+  <div>
+    <p>Aplicação Java com padrão Builder, testes com JUnit e exemplo prático com README explicativo.</p>
+    <p><em>[EN] Aplicação Java com padrão Builder, testes com JUnit e exemplo prático com README explicativo.</em></p>
+  </div>
+</details>
+<br />
+<details>
+  <summary><a href="https://github.com/Leonardobern10/CarRent">Plataforma de aluguel de carros</a> </summary>
+  <br />
+  <div>
+    <p>Aplicação web moderna e responsiva, desenvolvida com foco em experiência do usuário, componentização escalável e boas práticas de desenvolvimento.</p>
+    <p><em>[EN] Aplicação web moderna e responsiva, desenvolvida com foco em experiência do usuário, componentização escalável e boas práticas de desenvolvimento.</em></p>
+  </div>
+</details>
+<hr />
 
 <h3>🧾 Certificados </h3>
 
