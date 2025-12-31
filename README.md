@@ -42,7 +42,7 @@
   <br />
   <div>
     <p>Aplicação web moderna e responsiva, desenvolvida com foco em experiência do usuário, componentização escalável e boas práticas de desenvolvimento.</p>
-    <p><em>[EN] Aplicação web moderna e responsiva, desenvolvida com foco em experiência do usuário, componentização escalável e boas práticas de desenvolvimento.</em></p>
+    <p><em>[EN] Modern and responsive web application, developed with a strong focus on user experience, scalable componentization, and development best practices.</em></p>
   </div>
 </details>
 <hr />
