@@ -29,11 +29,11 @@
 </details>
 </br>
 <details>
-  <summary><a href="https://github.com/Leonardobern10/Car-management-api">API Rest para gerenciamento de carros </a> </summary>
+  <summary><a href="https://github.com/Leonardobern10/TaskLy">TaskLy</a></summary>
   <br />
   <div>
-    <p>Aplicação Java com padrão Builder, testes com JUnit e exemplo prático com README explicativo.</p>
-    <p><em>[EN] Aplicação Java com padrão Builder, testes com JUnit e exemplo prático com README explicativo.</em></p>
+    <p>Sistema de Gestão de Tarefas colaborativas — uma arquitetura monorepo em TypeScript com microserviços em NestJS, comunicação via mensageria e suporte a várias features como autenticação, tasks, comentários e notificações em tempo real.</p>
+    <p><em>[EN] Collaborative Task Management System — a TypeScript monorepo architecture with NestJS microservices, message-based communication, and support for multiple features such as authentication, tasks, comments, and real-time notifications.</em></p>
   </div>
 </details>
 <br />
