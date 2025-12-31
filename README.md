@@ -1,8 +1,6 @@
 <div align="center">
   <img width="1000px" src="public/banner-git.gif" alt="Header" />
 </div>
-<h3 align="center">🙋‍♂️ Olá, eu sou Leonardo 👍</h3> 
-<h3 align="center">🙋‍♂️ [EN] Hi, i'm Leonardo 👍</h3> 
 Sou Desenvolvedor Full Stack com foco em aplicações escaláveis usando Node.js, Java, TypeScript, React e Vue.js. Tenho experiência prática com arquitetura de microsserviços orientada a eventos, Clean Architecture, TDD, SOLID e testes automatizados.
 
 ## 🚀 Tecnologias principais
